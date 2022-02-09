@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photo-journal/static/css/main.dfc48b95.css",
+    "main.js": "/photo-journal/static/js/main.153c9f60.js",
+    "index.html": "/photo-journal/index.html",
+    "main.dfc48b95.css.map": "/photo-journal/static/css/main.dfc48b95.css.map",
+    "main.153c9f60.js.map": "/photo-journal/static/js/main.153c9f60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc48b95.css",
+    "static/js/main.153c9f60.js"
+  ]
+}
